@@ -20,7 +20,7 @@ export default function MessagesPage() {
             : "Google delivery needs setup. Messages are saved here, but Sheet and email delivery are not connected yet."}
         </p>
         <a
-          href="https://github.com/Rockstatata/Portfolio-v2/blob/master/docs/contact-setup.md"
+          href="https://github.com/polymathicX/Portfolio-v2/blob/master/docs/contact-setup.md"
           target="_blank"
           rel="noreferrer"
           className="mt-2 inline-flex min-h-11 items-center text-ion underline underline-offset-4"
