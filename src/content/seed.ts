@@ -571,7 +571,7 @@ export const seedProjects: Seed<Project>[] = [
     liveUrl: "",
     imageUrl: "/images/projects/verity.webp",
     year: "2026",
-    context: "BCOLBD 2026 · Team Logarithm",
+    context: "BCOLBD 2026 Finalist · Team Logarithm",
     isPrivate: false,
     featured: true,
   },
@@ -768,6 +768,14 @@ export const seedEducation: Seed<Education>[] = [
 ];
 
 export const seedAchievements: Seed<Achievement>[] = [
+  {
+    title: "Finalist",
+    event: "BCOLBD 2026 · Verity Project",
+    date: "2026",
+    description:
+      "Selected as a finalist with Verity, a Team Logarithm blockchain project.",
+    url: "",
+  },
   {
     title: "Runners-up",
     event: "July Hackathon 2026",
