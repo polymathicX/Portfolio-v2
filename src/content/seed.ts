@@ -643,12 +643,14 @@ export const seedPublications: Seed<Publication>[] = [
     pdfUrl: "",
   },
   {
-    title: "IHCI poster paper (edit title in admin)",
-    authors: "S. H. Siddiqui et al.",
+    title:
+      "Describe-to-Decide: Machine-to-Machine Learning via Geo-Spatial Knowledge Sharing and Change Inference for Multi-Robot SAR",
+    authors:
+      "Mohammad Insanur Rahman Shuvo, Nafiul Alam, Awal Ahmed Fime, Ravia Bhullar, Sarwad Hasan Siddiqui, Xiangxu Lin, Jong-Hoon Kim",
     venue:
       "International Conference on Intelligent Human Computer Interaction (IHCI)",
     year: "2026",
-    status: "poster",
+    status: "published",
     kind: "Poster",
     abstract: "",
     url: "",
